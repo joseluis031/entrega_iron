@@ -1,0 +1,19 @@
+h1 {
+    background-color: #3498db; /* Color de fondo del encabezado */
+    color: white; /* Color del texto del encabezado */
+    padding: 2px; /* Espaciado interno del encabezado */
+    width: 24.5%; /* Ancho del encabezado */
+    float: left; /* Hacer que el encabezado flote a la izquierda */
+}
+
+.sidebar {
+    background-color: #e74c3c; /* Color de fondo de la barra lateral */
+    color: white; /* Color del texto de la barra lateral */
+    padding: 100px; /* Espaciado interno de la barra lateral */
+    width: 10%; /* Ancho de las barras laterales */
+    margin: 0; /* Sin margen superior ni inferior para eliminar el espacio entre las barras laterales */
+    float: left; /* Hacer que las barras laterales floten a la izquierda */
+    clear: both; /* Limpiar el flotado para evitar solapamientos */
+    border-right: 1px solid #ccc; /* Línea derecha que separa las barras laterales */
+}
+

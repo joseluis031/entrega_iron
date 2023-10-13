@@ -1,0 +1,17 @@
+div {
+    width: 300px;
+    float: left;
+    border-radius: 3.5%;
+}
+
+#div1{
+    background-color: #f6b561;
+    width: 280px;
+    padding: 110px 0;
+    text-align: center;
+}
+
+.borde_izq{
+    border-top-left-radius: 0%;
+    border-bottom-left-radius: 0%;
+}
